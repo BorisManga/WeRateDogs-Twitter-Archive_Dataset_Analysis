@@ -6,7 +6,10 @@ The goal of this project was to Wrangle WeRateDogs Twitter data to create intere
  Store, analyze, and visualize the wrangled data.
 
 The below main file from the project : 
+
 https://github.com/BorisManga/WeRateDogs-Twitter-Archive_Dataset_Analysis/blob/main/wrangle_report.ipynb
+
+https://github.com/BorisManga/WeRateDogs-Twitter-Archive_Dataset_Analysis/blob/main/Wrangling_report.pdf
 
 
 The data wrangling process (data collection from different sources, data assessing and cleaning) resulted in two analytics-ready datasets which were merger in a master_Dataset for analysis 
