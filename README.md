@@ -12,8 +12,6 @@ The below main file from the project :
 -[Wrangle Report findings](https://github.com/BorisManga/WeRateDogs-Twitter-Archive_Dataset_Analysis/blob/main/Wrangling_report.pdf)
 
 
-The data wrangling process (data collection from different sources, data assessing and cleaning) resulted in two analytics-ready datasets which were merger in a master_Dataset for analysis 
-Details
-
+The complete data wrangling process (data collection,  data assessing and data cleaning) resulted in two analytics-ready datasets which were merged in a master_Dataset for the global project analysis
 
 Tools used : Jupyter Notebook/Python Libraries: pandas, numpy, requests, tweepy, datetime, os, json, matplotlib
